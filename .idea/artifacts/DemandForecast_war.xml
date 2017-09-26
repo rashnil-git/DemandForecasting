@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="DemandForecast:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/DemandForecast</output-path>
+    <root id="archive" name="DemandForecast.war">
+      <element id="artifact" artifact-name="DemandForecast:war exploded" />
+    </root>
+  </artifact>
+</component>
